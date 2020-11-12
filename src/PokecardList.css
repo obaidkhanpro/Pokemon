@@ -1,0 +1,18 @@
+.pokecardList {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.winner {
+    color: green;
+}
+
+.looser {
+    color: red;
+}
+
+.container {
+    max-width: 70%;
+    margin: 0 auto;
+}
